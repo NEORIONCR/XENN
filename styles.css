@@ -70,7 +70,7 @@ img { display: block; max-width: 100%; }
 .world-body { margin-top: 4.3rem; max-width: 635px; color: #170103; font-size: clamp(1.2rem, 1.7vw, 1.5rem); font-weight: 600; line-height: 1.5; }
 .world-body p { margin: 0 0 2.2rem; }
 .world-art { position: relative; align-self: stretch; display: flex; align-items: center; justify-content: center; margin-right: -3rem; }
-.world-art img { width: min(100%, 640px); height: auto; filter: drop-shadow(0 30px 36px #42000055); animation: float-art 9s ease-in-out infinite; }
+.world-art img { width: min(100%, 840px); height: auto; filter: drop-shadow(0 30px 36px #42000055); animation: float-art 9s ease-in-out infinite; }
 .production { padding-block: clamp(7rem, 11vw, 11rem) clamp(8rem, 11vw, 11rem); background: #fff; color: #0a0a0a; }
 .eyebrow-box { width: max-content; margin-bottom: 3.5rem; padding: .35rem .7rem; background: #000; }
 .production-title { font-size: clamp(4.5rem, 7vw, 7rem); background: linear-gradient(105deg, #000 0%, #555 50%, #aaa 100%); -webkit-background-clip: text; background-clip: text; color: transparent; }
